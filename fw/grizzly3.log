@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP12F629 -DL -O11111104 -fo4 -N"E:\Grizzly3\fw\grizzly3.mcppi" -SP"C:\Programmi\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Programmi\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\Grizzly3\fw\" "grizzly3.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 48 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	grizzly3.h
+diagnostics: 281	123	Compiled Successfully	grizzly3.c
+diagnostics: 0	127	All files Compiled in 172 ms	 
+hint: 0	1144	Used RAM (bytes): 14 (29%)  Free RAM (bytes): 34 (71%)	Used RAM (bytes): 14 (29%)  Free RAM (bytes): 34 (71%)
+hint: 0	1144	Used ROM (program words): 617 (60%)  Free ROM (program words): 407 (40%)	Used ROM (program words): 617 (60%)  Free ROM (program words): 407 (40%)
+diagnostics: 0	125	Project Linked Successfully	grizzly3.mcppi
+diagnostics: 0	128	Linked in 297 ms	 
+diagnostics: 0	129	Project 'grizzly3.mcppi' completed: 516 ms	 
+diagnostics: 0	103	Finished successfully: 29 apr 2017, 16.06.25	grizzly3.mcppi
