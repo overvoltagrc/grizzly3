@@ -8,6 +8,10 @@ Grizzly3 è una centralina elettronica per il pilotaggio di verricelli (winch) s
 
 La scheda riceve un segnale PPM standard da un canale del ricevitore R/C e lo converte in un comando bidirezionale a PWM per pilotare il motore del verricello in avanti, indietro, con frenata attiva (drag brake) in folle.
 
+<p align="center">
+  <img src="grizzly3_board.jpg" alt="Grizzly3 - Scheda assemblata" width="500">
+</p>
+
 ## 1. Il progetto
 
 Grizzly3 è composto da tre parti:
@@ -69,7 +73,8 @@ grizzly3/
 ├── fw/              # Sorgente firmware (mikroC) e .hex già compilato, pronto da flashare
 ├── man/             # Manuale utente IT/EN
 ├── ref/             # Datasheet dei componenti principali (PIC12F629, MOSFET, transistor)
-└── grizzly3_logo.png
+├── grizzly3_logo.png
+└── grizzly3_board.jpg  # Foto della scheda assemblata
 ```
 
 ## Licenza
